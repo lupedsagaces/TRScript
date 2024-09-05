@@ -19,18 +19,19 @@ This project provides a simple application to transcribe audio from YouTube vide
 ### Linux
 
 **Make the installation script executable:**
-    ```bash
+    
+   ```bash
     chmod +x install.sh
     ./install.sh
-    ```
+   ```
 
 ### Windows
 
 **Run following commands:**
-    ```bash
+   ```bash
         winget install ffmpeg
         python3 install -r requirements.txt
-    ```
+   ```
 
 
 
