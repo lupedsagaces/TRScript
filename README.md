@@ -21,8 +21,8 @@ This project provides a simple application to transcribe audio from YouTube vide
 **Make the installation script executable:**
     
    ```bash
-    chmod +x install.sh
-    ./install.sh
+    chmod +x script.sh
+    ./script.sh
    ```
 
 ### Windows
