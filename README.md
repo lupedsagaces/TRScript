@@ -12,7 +12,7 @@ This project provides a simple application to transcribe audio from YouTube vide
 
 **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/lupedsagaces/TRScript.git
    cd yourrepository
    ```
 
